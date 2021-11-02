@@ -1,0 +1,4 @@
+emailIds = [ "abc@gmail.com", "abc@hotmail.com",
+"abc@yahoo.com", "123@yahoo.com",
+"123@gmail.com", "345@yahoo.com",
+ ];
